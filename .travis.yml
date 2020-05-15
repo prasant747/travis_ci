@@ -5,4 +5,4 @@ install:
  - "pip install pytest"
  - "pip install -r requirements.txt"
 script:
- - python hello_world.py
+ - python test/hello_world.py
